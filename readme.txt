@@ -1,4 +1,4 @@
-#user say desire configration then modal prediction Realtime Price in market
+User say desire configration then modal prediction Realtime Price in market
 
 Total 6 stages:-
 
